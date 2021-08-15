@@ -1,6 +1,6 @@
 # translator
 
-### I watched a youtube video this morning that piqued my interest with the python translator model, as such i made a really simple application in python...
+### I watched a youtube video this morning that piqued my interest with the python translate package, as such i made a really simple application in python...
 
 ```
 # Import the module
